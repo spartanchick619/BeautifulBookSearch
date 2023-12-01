@@ -2,7 +2,7 @@
 
 ## Description
 
-Beautiful Book Search allows the users to a Google Books API to find any book. This book search engine was refractured to be GraphQL API built with Apollo Server. It was built using MERN stack, React, MongoDB, Node.js, Express.js, GraphQL, Apollo and Heroku. The challenges were getting the folder sin the right order to function correctly and getting Apollo updated in the dependencies. I had challnehed finding the erros between the client and server. 
+Beautiful Book Search allows the users to a Google Books API to find any book. This book search engine was refractured to be GraphQL API built with Apollo Server. It was built using MERN stack, React, MongoDB, Node.js, Express.js, GraphQL, Apollo and Heroku. The challenges were getting the folder sin the right order to function correctly and getting Apollo updated in the dependencies. It was challending finding the errors between the client and server. 
 
 ## Installation
 Invoke npm install 
